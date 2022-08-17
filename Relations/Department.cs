@@ -11,5 +11,15 @@ namespace Relations
         public string Code { get; set; }
         public string Name { get; set; }
         public List<Course> courses { get; set; }
+
+        public string GetInfo()
+        {
+            string info = $"Department Code: {Code}{Environment.NewLine}Department Name: {Name}{Environment.NewLine}";
+            foreach (var course in courses)
+            {
+                info += $"{course.GetInfo()} {Environment.NewLine}";
+            }
+            return info;
+        }
     }
 }

@@ -6,6 +6,7 @@ namespace Relations
     {
         public static void Main(String[] args)
         {
+            // One to One association relationship
             Address address = new Address();
             address.HouseNo = "41";
             address.RoadNo = "25";
@@ -16,7 +17,7 @@ namespace Relations
 
             Console.WriteLine(person.PresentAddress.HouseNo);
 
-
+            // One to many association relationship
             Course course = new Course();
             course.Code = "101";
             course.Title = "C Programming";
@@ -43,13 +44,7 @@ namespace Relations
             
             department.courses = courseList;
 
-            foreach (var item in department.courses)
-            {
-                Console.WriteLine($"Course Code: {item.Code}");
-                Console.WriteLine($"Course Title: {item.Title}");
-                Console.WriteLine($"Course Credit: {item.Credit}");
-                Console.WriteLine();
-            }
+            Console.WriteLine(department.GetInfo());
 
 
         }
