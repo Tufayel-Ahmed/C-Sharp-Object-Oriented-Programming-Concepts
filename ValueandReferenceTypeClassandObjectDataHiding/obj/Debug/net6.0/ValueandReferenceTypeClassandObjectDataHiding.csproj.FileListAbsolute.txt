@@ -1,0 +1,15 @@
+G:\C-Sharp-Object-Oriented-Programming-Concepts\ValueandReferenceTypeClassandObjectDataHiding\bin\Debug\net6.0\ValueandReferenceTypeClassandObjectDataHiding.exe
+G:\C-Sharp-Object-Oriented-Programming-Concepts\ValueandReferenceTypeClassandObjectDataHiding\bin\Debug\net6.0\ValueandReferenceTypeClassandObjectDataHiding.deps.json
+G:\C-Sharp-Object-Oriented-Programming-Concepts\ValueandReferenceTypeClassandObjectDataHiding\bin\Debug\net6.0\ValueandReferenceTypeClassandObjectDataHiding.runtimeconfig.json
+G:\C-Sharp-Object-Oriented-Programming-Concepts\ValueandReferenceTypeClassandObjectDataHiding\bin\Debug\net6.0\ValueandReferenceTypeClassandObjectDataHiding.dll
+G:\C-Sharp-Object-Oriented-Programming-Concepts\ValueandReferenceTypeClassandObjectDataHiding\bin\Debug\net6.0\ValueandReferenceTypeClassandObjectDataHiding.pdb
+G:\C-Sharp-Object-Oriented-Programming-Concepts\ValueandReferenceTypeClassandObjectDataHiding\obj\Debug\net6.0\ValueandReferenceTypeClassandObjectDataHiding.csproj.AssemblyReference.cache
+G:\C-Sharp-Object-Oriented-Programming-Concepts\ValueandReferenceTypeClassandObjectDataHiding\obj\Debug\net6.0\ValueandReferenceTypeClassandObjectDataHiding.GeneratedMSBuildEditorConfig.editorconfig
+G:\C-Sharp-Object-Oriented-Programming-Concepts\ValueandReferenceTypeClassandObjectDataHiding\obj\Debug\net6.0\ValueandReferenceTypeClassandObjectDataHiding.AssemblyInfoInputs.cache
+G:\C-Sharp-Object-Oriented-Programming-Concepts\ValueandReferenceTypeClassandObjectDataHiding\obj\Debug\net6.0\ValueandReferenceTypeClassandObjectDataHiding.AssemblyInfo.cs
+G:\C-Sharp-Object-Oriented-Programming-Concepts\ValueandReferenceTypeClassandObjectDataHiding\obj\Debug\net6.0\ValueandReferenceTypeClassandObjectDataHiding.csproj.CoreCompileInputs.cache
+G:\C-Sharp-Object-Oriented-Programming-Concepts\ValueandReferenceTypeClassandObjectDataHiding\obj\Debug\net6.0\ValueandReferenceTypeClassandObjectDataHiding.dll
+G:\C-Sharp-Object-Oriented-Programming-Concepts\ValueandReferenceTypeClassandObjectDataHiding\obj\Debug\net6.0\refint\ValueandReferenceTypeClassandObjectDataHiding.dll
+G:\C-Sharp-Object-Oriented-Programming-Concepts\ValueandReferenceTypeClassandObjectDataHiding\obj\Debug\net6.0\ValueandReferenceTypeClassandObjectDataHiding.pdb
+G:\C-Sharp-Object-Oriented-Programming-Concepts\ValueandReferenceTypeClassandObjectDataHiding\obj\Debug\net6.0\ValueandReferenceTypeClassandObjectDataHiding.genruntimeconfig.cache
+G:\C-Sharp-Object-Oriented-Programming-Concepts\ValueandReferenceTypeClassandObjectDataHiding\obj\Debug\net6.0\ref\ValueandReferenceTypeClassandObjectDataHiding.dll
