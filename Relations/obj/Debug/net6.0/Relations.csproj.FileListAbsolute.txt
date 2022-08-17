@@ -1,0 +1,15 @@
+G:\C-Sharp-Object-Oriented-Programming-Concepts\Relations\bin\Debug\net6.0\Relations.exe
+G:\C-Sharp-Object-Oriented-Programming-Concepts\Relations\bin\Debug\net6.0\Relations.deps.json
+G:\C-Sharp-Object-Oriented-Programming-Concepts\Relations\bin\Debug\net6.0\Relations.runtimeconfig.json
+G:\C-Sharp-Object-Oriented-Programming-Concepts\Relations\bin\Debug\net6.0\Relations.dll
+G:\C-Sharp-Object-Oriented-Programming-Concepts\Relations\bin\Debug\net6.0\Relations.pdb
+G:\C-Sharp-Object-Oriented-Programming-Concepts\Relations\obj\Debug\net6.0\Relations.csproj.AssemblyReference.cache
+G:\C-Sharp-Object-Oriented-Programming-Concepts\Relations\obj\Debug\net6.0\Relations.GeneratedMSBuildEditorConfig.editorconfig
+G:\C-Sharp-Object-Oriented-Programming-Concepts\Relations\obj\Debug\net6.0\Relations.AssemblyInfoInputs.cache
+G:\C-Sharp-Object-Oriented-Programming-Concepts\Relations\obj\Debug\net6.0\Relations.AssemblyInfo.cs
+G:\C-Sharp-Object-Oriented-Programming-Concepts\Relations\obj\Debug\net6.0\Relations.csproj.CoreCompileInputs.cache
+G:\C-Sharp-Object-Oriented-Programming-Concepts\Relations\obj\Debug\net6.0\Relations.dll
+G:\C-Sharp-Object-Oriented-Programming-Concepts\Relations\obj\Debug\net6.0\refint\Relations.dll
+G:\C-Sharp-Object-Oriented-Programming-Concepts\Relations\obj\Debug\net6.0\Relations.pdb
+G:\C-Sharp-Object-Oriented-Programming-Concepts\Relations\obj\Debug\net6.0\Relations.genruntimeconfig.cache
+G:\C-Sharp-Object-Oriented-Programming-Concepts\Relations\obj\Debug\net6.0\ref\Relations.dll
