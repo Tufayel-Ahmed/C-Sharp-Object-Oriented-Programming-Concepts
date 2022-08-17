@@ -1,0 +1,15 @@
+G:\C-Sharp-Object-Oriented-Programming-Concepts\PropertiesAndConstructor\bin\Debug\net6.0\PropertiesAndConstructor.exe
+G:\C-Sharp-Object-Oriented-Programming-Concepts\PropertiesAndConstructor\bin\Debug\net6.0\PropertiesAndConstructor.deps.json
+G:\C-Sharp-Object-Oriented-Programming-Concepts\PropertiesAndConstructor\bin\Debug\net6.0\PropertiesAndConstructor.runtimeconfig.json
+G:\C-Sharp-Object-Oriented-Programming-Concepts\PropertiesAndConstructor\bin\Debug\net6.0\PropertiesAndConstructor.dll
+G:\C-Sharp-Object-Oriented-Programming-Concepts\PropertiesAndConstructor\bin\Debug\net6.0\PropertiesAndConstructor.pdb
+G:\C-Sharp-Object-Oriented-Programming-Concepts\PropertiesAndConstructor\obj\Debug\net6.0\PropertiesAndConstructor.csproj.AssemblyReference.cache
+G:\C-Sharp-Object-Oriented-Programming-Concepts\PropertiesAndConstructor\obj\Debug\net6.0\PropertiesAndConstructor.GeneratedMSBuildEditorConfig.editorconfig
+G:\C-Sharp-Object-Oriented-Programming-Concepts\PropertiesAndConstructor\obj\Debug\net6.0\PropertiesAndConstructor.AssemblyInfoInputs.cache
+G:\C-Sharp-Object-Oriented-Programming-Concepts\PropertiesAndConstructor\obj\Debug\net6.0\PropertiesAndConstructor.AssemblyInfo.cs
+G:\C-Sharp-Object-Oriented-Programming-Concepts\PropertiesAndConstructor\obj\Debug\net6.0\PropertiesAndConstructor.csproj.CoreCompileInputs.cache
+G:\C-Sharp-Object-Oriented-Programming-Concepts\PropertiesAndConstructor\obj\Debug\net6.0\PropertiesAndConstructor.dll
+G:\C-Sharp-Object-Oriented-Programming-Concepts\PropertiesAndConstructor\obj\Debug\net6.0\refint\PropertiesAndConstructor.dll
+G:\C-Sharp-Object-Oriented-Programming-Concepts\PropertiesAndConstructor\obj\Debug\net6.0\PropertiesAndConstructor.pdb
+G:\C-Sharp-Object-Oriented-Programming-Concepts\PropertiesAndConstructor\obj\Debug\net6.0\PropertiesAndConstructor.genruntimeconfig.cache
+G:\C-Sharp-Object-Oriented-Programming-Concepts\PropertiesAndConstructor\obj\Debug\net6.0\ref\PropertiesAndConstructor.dll
