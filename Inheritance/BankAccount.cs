@@ -12,6 +12,16 @@ namespace Inheritance
         public string CustomerName { get; set; }
         public double Balance { get; private set; }
 
+        public BankAccount()
+        {
+            Balance = 0;
+        }
+        public BankAccount(string accountNo, string customerName) : this()
+        {
+            AccountNo = accountNo;
+            CustomerName = customerName;
+        }
+
         public string Deposit(double amount)
         {
             Balance += amount;

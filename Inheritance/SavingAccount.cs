@@ -9,6 +9,10 @@ namespace Inheritance
     public class SavingAccount : BankAccount
     {
         public double InterestAmount { get; set; }
+        public SavingAccount(string accountNo, string coustomerName, double interestAmount) : base(accountNo, coustomerName)
+        {
+            InterestAmount = interestAmount;
+        }
 
         public override string Withdraw(double amount)
         {
